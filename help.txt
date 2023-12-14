@@ -1,0 +1,19 @@
+## react-mysql-crud-client
+
+### =========references===========
+-tutorials
+https://www.youtube.com/watch?v=fPuLnzSjPLE&t=1189s
+
+### features/actions
+1.  CRUD operations
+
+### technologies used
+1.  react js
+2.  react router
+3.  mysql database
+
+### completed tasks
+1.  CRUD operations
+
+### pending tasks
+1.  deployment somewhere
